@@ -1,0 +1,12 @@
+:root {
+  --dark-green: #051f20;
+  --forest-green: #0b2b26;
+  --deep-teal: #163832;
+  --jungle-green: #235347;
+  --mint-green: #8eb69b;
+  --light-mint: #daf1de;
+}
+body {
+  background-color: var(--dark-green);
+  color: var(--light-mint);
+}
